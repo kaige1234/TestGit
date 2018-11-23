@@ -8,5 +8,8 @@ package cn.com.dada;
  * @Version 1.0
  **/
 public class secend {
-    public void a(){};
+    public void a(){
+        int a =0;
+        int b =0;
+    };
 }

@@ -10,4 +10,5 @@ package cn.com.dada;
 public class ccccc {
     public void aaaa(){};
     public void bbb(){};
+    public void CCC(){};
 }
